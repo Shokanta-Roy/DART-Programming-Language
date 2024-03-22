@@ -1,3 +1,7 @@
+//In dart, all the data types are OBJECT.
+//Therefore, values are by default NULL;
+//var--- data type will depend on the value.
+
 void main()
 {
   //numbers (int and double);
